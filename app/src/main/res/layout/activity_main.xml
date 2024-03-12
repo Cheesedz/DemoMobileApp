@@ -16,4 +16,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="View" android:layout_y="297dp" android:layout_x="158dp"/>
+    <TextView
+            android:text="TextView"
+            android:layout_width="156dp"
+            android:layout_height="212dp" android:layout_y="535dp" android:layout_x="170dp"
+            android:id="@+id/textView"/>
 </AbsoluteLayout>
